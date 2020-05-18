@@ -1,0 +1,92 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*header section*/
+
+header{
+	background: url("connect.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 30vh;
+	margin: 0px;
+	padding: 0px;
+	
+	
+}
+
+.horizontal-nav{
+	background: transparent;
+	display: inline-block;
+	position: relative;
+	top: 60%;
+	left: 45%;
+	
+
+}
+
+.horizontal-nav{
+	padding: 3px;
+}
+.horizontal-nav ul>li{
+	display: inline-block;
+	text-decoration:none;
+	color:white;
+	margin: 5px;
+
+}
+
+.horizontal-nav ul i{
+	font-size: 2rem;
+	color: 
+}
+
+
+/*main secti0n*/
+.heading{
+	background:rgb(0, 0, 102);
+}
+
+.heading h1{	color:rgb(255,198,26);
+	margin:20px 20px;
+	padding:30px 20px;
+	text-align:center; }
+
+
+.result iframe{
+	width: 80%;
+	height: 60vh;
+	position: relative;
+	left:10%;
+}
+
+
+
+
+/*footer*/
+#foot-para-csrl{
+	font-weight:bold;
+	font-family:'Lucida Console';
+	font-size:large;color:rgb(255,198,2);
+	display: inline-block;
+}
+
+#foot-para-rights{
+	color:white;
+	font-size:small;
+	display: inline-block;
+}
+
+
+footer{
+	background-color:rgb(26, 26, 255);
+	height:100px;
+}
+
+footer>div{
+	
+	text-align: center;
+}
+
