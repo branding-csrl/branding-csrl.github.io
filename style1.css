@@ -44,7 +44,7 @@ header{
 }
 
 
-/*main secti0n*/
+/*main section*/
 .heading{
 	background:rgb(0, 0, 102);
 }
@@ -57,7 +57,7 @@ header{
 
 .result iframe{
 	width: 80%;
-	height: 60vh;
+	height: 60%;
 	position: relative;
 	left:10%;
 }
