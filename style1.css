@@ -1,7 +1,7 @@
 body{
 	margin: 0px;
 	padding: 0px;
-	height:100vh;
+	
 }
 
 /*header section*/
@@ -61,6 +61,7 @@ header{
 	height: 60vh;
 	position: relative;
 	left:10%;
+	background-color: blue;
 }
 
 
